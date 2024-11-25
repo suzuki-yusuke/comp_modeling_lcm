@@ -7,3 +7,5 @@ The latter is referred to the original github repositly.
 For the estimation of histogram bin width (Shimazaki and Shinomoto, 2007), sshist_v2.m, is referred to the author's site https://s-shinomoto.com/histograms/
 
 For an example of input data, see champion.csv.
+
+If any, feel free to contact Yusuke Suzuki (suzuki.yusuke.7n at kyoto-u.ac.jp).
